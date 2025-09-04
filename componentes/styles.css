@@ -1,6 +1,6 @@
 .card{
-border: 1px solid gray;
-width: 450px;
+  border: 1px solid black;
+  width: 450px;
 }
 
 .box{
@@ -9,11 +9,11 @@ width: 450px;
 
 .cabecalho{
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 700px;
 }
 
 .title{
-  float:left ;
+  float: left;
 }
 
 .price{
@@ -37,4 +37,5 @@ width: 450px;
   padding: 5px 0px;
   color: white;
   border: 0px;
+  cursor: pointer;
 }
