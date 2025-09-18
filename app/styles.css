@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+ (max-width: 768px) {
   header {
     background-color: #cccccc;
     padding: 30px 20px;
@@ -80,7 +80,7 @@
 }
 
 
-@media (min-width: 769px) {
+ (min-width: 769px) {
   header {
     background-color: #cccccc;
     padding: 30px 20px;
