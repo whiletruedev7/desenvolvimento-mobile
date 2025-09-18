@@ -1,4 +1,4 @@
-    (max-width: 768px) {
+@media (max-width: 768px) {
   header {
     background-color: #cccccc;
     padding: 30px 20px;
@@ -18,7 +18,7 @@
   }
 
   main {
-    padding-top: 8px;
+    padding-top: 290px;
     font-size: 50px;
     display: flex;
     justify-content: center;
@@ -80,7 +80,7 @@
 }
 
 
- (min-width: 769px) {
+@media (min-width: 769px) {
   header {
     background-color: #cccccc;
     padding: 30px 20px;
